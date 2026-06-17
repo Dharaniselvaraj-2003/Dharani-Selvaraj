@@ -4,7 +4,7 @@
 
  About Me
 
-BE CSE 2025 Graduate
+B.E CSE 2025 Graduate
 
 Java Full Stack Developer and DevOps Learner.
 
