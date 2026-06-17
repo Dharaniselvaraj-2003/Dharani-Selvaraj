@@ -23,8 +23,9 @@ Java Full Stack Developer and DevOps Learner.
 
 - DevOps
 
-  Linkedin profile : linkedin.com/in/dharani-s-7591842ab
-
 ## Connect With Me
+
+linkedin.com/in/dharani-s-7591842ab
+
 
 LinkedIn: 
