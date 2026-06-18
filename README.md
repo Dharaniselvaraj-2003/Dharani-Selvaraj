@@ -1,16 +1,14 @@
 # Dharaniselvaraj-2003
-  
-#                                                       Hi 👋, I'm Dharani S
+ <h1 align="center">Hi 👋, I'm Dharani S</h1>
 
-###                                            🚀 Java Full Stack Developer | DevOps Learner
-
+<h3 align="center">🚀 Java Full Stack Developer | DevOps Learner</h3>
 ---
 
 ## 🔥 About Me
 
 - 🎓 B.E. Computer Science and Engineering Graduate (2025)
 - 💻 Passionate Java Full Stack Developer
-- 🌱 Currently learning DevOps, Docker, Kubernetes, CI/CD, and Cloud Technologies
+- 🌱 Currently learning DevOps
 - 🛠️ Interested in building scalable and efficient applications
 - 📚 Eager to learn new technologies and improve my skills continuously
 
@@ -32,7 +30,6 @@
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -52,22 +49,19 @@
 
 ## 📊 GitHub Stats
 
-![Dharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Dharani's GitHub Stats]((https://github.com/Dharaniselvaraj-2003/Dharani-Selvaraj/edit/main/README.md))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/dharani-s
-- Email: your-email@example.com
+- LinkedIn: linkedin.com/in/dharani-s-7591842ab
+- Email: s.dharani.csemamse2021@gmail.com
 
 ---
 
-⭐ Always eager to learn new technologies and contribute to innovative projects.## Connect With Me
-
-Linkedin:linkedin.com/in/dharani-s-7591842ab
+⭐ Always eager to learn new technologies and contribute to innovative projects.
 
 
  
