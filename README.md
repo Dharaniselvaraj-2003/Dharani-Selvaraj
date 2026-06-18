@@ -49,8 +49,7 @@
 
 ## 📊 GitHub Stats
 
-![Dharani's GitHub Stats]((https://github.com/Dharaniselvaraj-2003/Dharani-Selvaraj/edit/main/README.md))
-
+![Dharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharaniselvaraj-2003&show_icons=true&theme=default)
 
 ---
 
