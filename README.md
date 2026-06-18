@@ -1,7 +1,12 @@
 
- <h1 align="center">Hi 👋, I'm Dharani S</h1>
+<h1 align="center">Hi 👋, I'm Dharani S</h1>
 
 <h3 align="center">🚀 Java Full Stack Developer | DevOps Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;DevOps+Learner;Spring+Boot+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🔥 About Me
